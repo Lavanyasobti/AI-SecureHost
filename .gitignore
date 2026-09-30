@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# Python database
+instance/
+*.db
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

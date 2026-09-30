@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-socketio
+flask-jwt-extended
+deepface
+opencv-python
+numpy
+pandas
+eventlet
+python-dotenv
+tf-keras
